@@ -241,12 +241,6 @@
     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_DemoPlaySound.cs" />
     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (CSharp)\Scripts\GA_FREE_OpenOtherScene.cs" />
     <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo Basic (CSharp)\Scripts\GUIAnimatorFREEDemo.cs" />
-    <Compile Include="Assets\OSPNative\scenes\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
-    <Compile Include="Assets\OSPNative\scripts\helpers\ONSPReflectionZone.cs" />
-    <Compile Include="Assets\OSPNative\scripts\ONSPAmbisonicsNative.cs" />
-    <Compile Include="Assets\OSPNative\scripts\ONSPAudioSource.cs" />
-    <Compile Include="Assets\OSPNative\scripts\ONSPProfiler.cs" />
-    <Compile Include="Assets\OSPNative\scripts\ONSPVersion.cs" />
     <Compile Include="Assets\Scripts\Beam.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
     <Compile Include="Assets\Scripts\FpsController.cs" />
@@ -258,9 +252,7 @@
     <None Include="Assets\GE Common Assets\Readme.txt" />
     <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
     <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
-    <None Include="Assets\LICENSE.txt" />
     <None Include="Assets\MobileBloom.shader" />
-    <None Include="Assets\OSPNative\THIRD_PARTY_NOTICES.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
